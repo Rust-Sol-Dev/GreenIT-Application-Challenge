@@ -2,10 +2,10 @@
 
 This project is the seed files needed to create a GreenIT test application.  
 
-Objective: This test will be a fully functional web application that will display the given data from a csv file, and allow full editing capabilties of the data.
+Objective: This test will be a fully functional web application that will display the given data from a csv file, and allow full editing capabilities of the data.
 
 ## Application Version Requirements
-1. Frontend must be in Anguar 10+
+1. Frontend must be in Angular 10+
 2. Backend must be in PHP 7.2+
 3. You may include any npm modules needed.
 4. Frontend should be built using npm, backend should be raw php files.
@@ -37,7 +37,7 @@ Objective: This test will be a fully functional web application that will displa
 1. Implement a immutable state solution in front end (e.g. Redux, ngrx, Akita)
 2. Show different parent child communication styles within your application.
 3. Show or describe web server architecture used.
-4. Extra points for making an easy comand line install or a Dockerfile to build the application
+4. Extra points for making an easy command line install or a Dockerfile to build the application
 5. Make the API fully functional, and write to the CSV file.
 
 //Run API test
