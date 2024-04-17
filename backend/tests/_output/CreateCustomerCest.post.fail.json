@@ -1,0 +1,19 @@
+<br />
+<b>Warning</b>:  Array to string conversion in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>44</b><br />
+Array<br />
+<b>Warning</b>:  Array to string conversion in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>44</b><br />
+Array<br />
+<b>Warning</b>:  Array to string conversion in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>44</b><br />
+Array<br />
+<b>Warning</b>:  Array to string conversion in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>44</b><br />
+Array<br />
+<b>Warning</b>:  Array to string conversion in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>44</b><br />
+Array<br />
+<b>Warning</b>:  Undefined variable $handle in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>46</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in D:\nggs\xampp\htdocs\application-test\backend\index.php:46
+Stack trace:
+#0 D:\nggs\xampp\htdocs\application-test\backend\index.php(46): fclose(NULL)
+#1 D:\nggs\xampp\htdocs\application-test\backend\index.php(54): writeData()
+#2 {main}
+  thrown in <b>D:\nggs\xampp\htdocs\application-test\backend\index.php</b> on line <b>46</b><br />

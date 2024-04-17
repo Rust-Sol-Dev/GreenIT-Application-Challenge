@@ -1,0 +1,18 @@
+table{
+    width: 1000px;    
+}
+
+th{
+    background-color: cadetblue;
+    color: white;
+}
+
+a{
+    background-color: #0dcaf0;
+    color: green;
+}
+
+button{
+    background-color: red;
+    color: green;
+}
